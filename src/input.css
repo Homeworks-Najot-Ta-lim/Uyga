@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+@layer components {
+    .borderItem{
+        @apply border border-solid p-5;
+    }
+}
